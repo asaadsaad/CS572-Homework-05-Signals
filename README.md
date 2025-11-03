@@ -5,5 +5,5 @@
    * Use `signal`, `computed`, `effect` for different states where appropriate.
 4. Use the `slice` pipe to truncate the card title.
 
-### Optional
-Research and write a summary for how Change Detection works in Angular, highlight the role of Zones, how can we improve its scope, and how can we create Zoneless applications.
+### Optional - linkedSignal exercise
+Complete the code for the given root component in the linkedSignal folder.
