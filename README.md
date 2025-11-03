@@ -1,4 +1,5 @@
 ### CS572-Homework-05-Signals
+Create a Zoneless Angular application without router. Components must use inline template and styles, flat, and without test files.
 1. Use `fetch()` and receive a recipe from the [DummyJSON API](https://dummyjson.com/recipes?limit=1&skip=0). Use the [JSON to TypeScript](https://transform.tools/json-to-typescript) service to strictly type the response.
 2. Install [Angular Material](https://material.angular.io/) and get familiar with (`Card`, `Paginator`) components.
 3. Display one recipe at a time in a card, and use the `Paginator` component to navigate between the recipes.
