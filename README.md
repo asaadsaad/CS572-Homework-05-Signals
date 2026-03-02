@@ -6,5 +6,4 @@ Create a Zoneless Angular application without router. Components must use inline
    * Use `signal`, `computed`, `effect` for different states where appropriate.
 4. Use the `slice` pipe to truncate the card title.
 
-### Optional - linkedSignal exercise
-Complete the code for the given root component in the linkedSignal folder.
+
